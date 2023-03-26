@@ -1,2 +1,2 @@
 # Projet-M1srt-BD-distribu-
-PROJET DE BASES DE DONNEES AVANCEES 
+ Babacar Thiam(M1 SRT)
